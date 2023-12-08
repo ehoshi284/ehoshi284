@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehoshi284
 - 👀 I’m interested in Mythology & History.
-- 🌱 I’m currently learning Unreal Engine 5 & Blender.
+- 🌱 I’m currently learning Unreal Engine 5 & Blender, while also working on a project on both platforms.
 - 💞️ I’m not looking to collaborate.
 - 📫 Please do not try to reach me.
 
